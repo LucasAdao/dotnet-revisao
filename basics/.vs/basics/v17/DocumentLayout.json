@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.adao.ferreira\\Desktop\\Pessoal\\Projetos\\Backend\\C#\\basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFACE1E-C8E0-4A49-9988-A2AFA1BF5D7A}|basics\\basics.csproj|c:\\users\\lucas.adao.ferreira\\desktop\\pessoal\\projetos\\backend\\c#\\basics\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFACE1E-C8E0-4A49-9988-A2AFA1BF5D7A}|basics\\basics.csproj|solutionrelative:basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.adao.ferreira\\Desktop\\Pessoal\\Projetos\\Backend\\C#\\basics\\basics\\Program.cs",
+              "RelativeDocumentMoniker": "basics\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.adao.ferreira\\Desktop\\Pessoal\\Projetos\\Backend\\C#\\basics\\basics\\Program.cs",
+              "RelativeToolTip": "basics\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T07:11:30.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
